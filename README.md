@@ -1,7 +1,7 @@
 # ChartDemo
 折线图简单使用
 
-
+![image](https://github.com/LXManMan/ChartDemo/blob/master/MyDemo/WX20190903-152816%402x.png)
 ```
  _chartView =[[LineChartView alloc]initWithFrame:CGRectMake(10, 0, ScreenWidth -20, SCREEN_HEIGHT - 200)];
     [self.view addSubview:_chartView];
@@ -104,4 +104,4 @@
         //赋予chartView数据
         _chartView.data = data;
    ```
-![image](https://github.com/LXManMan/ChartDemo/blob/master/MyDemo/WX20190903-152816%402x.png)
+
