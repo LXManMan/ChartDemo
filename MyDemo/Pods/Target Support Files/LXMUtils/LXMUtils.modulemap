@@ -1,0 +1,6 @@
+framework module LXMUtils {
+  umbrella header "LXMUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}
